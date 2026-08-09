@@ -1,0 +1,148 @@
+D:\1-C#\Source\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\1-C#\Source\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe
+D:\1-C#\Source\DorkMaster\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe
+D:\1-C#\Source\DorkMaster\DorkMaster\obj\Debug\DorkMaster.pdb
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.pdb
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form2.resources
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form2.resources
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.frmActive.resources
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.pdb
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.manifest
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\DorkMaster.application
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe.manifest
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.application
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\System.Security.AccessControl.dll
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\System.Security.Principal.Windows.dll
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\Microsoft.Win32.Registry.xml
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\System.Security.AccessControl.xml
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\bin\Debug\System.Security.Principal.Windows.xml
+D:\1-C#\Project\New folder\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CopyComplete
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.manifest
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\DorkMaster.application
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\System.Security.AccessControl.dll
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\System.Security.Principal.Windows.dll
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\Microsoft.Win32.Registry.xml
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\System.Security.AccessControl.xml
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\bin\Debug\System.Security.Principal.Windows.xml
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.frmActive.resources
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe.manifest
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.application
+D:\1-C#\My_Projects\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CopyComplete
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe.manifest
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\DorkMaster.application
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\DorkMaster.exe
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\System.Security.AccessControl.dll
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\System.Security.Principal.Windows.dll
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\Microsoft.Win32.Registry.xml
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\System.Security.AccessControl.xml
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\bin\Debug\System.Security.Principal.Windows.xml
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Form2.resources
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe.manifest
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.application
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.csproj.CopyComplete
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.exe
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.pdb
+D:\1-C#\My-Projects-inCode\DorkMaster\DorkMaster\obj\Debug\DorkMaster.FormJoin.resources
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe.manifest
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.application
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.AccessControl.dll
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.Principal.Windows.dll
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\Microsoft.Win32.Registry.xml
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.AccessControl.xml
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.Principal.Windows.xml
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Form2.resources
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.FormJoin.resources
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.exe.manifest
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.application
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.CopyComplete
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.exe
+D:\1-C#\My_Projects\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.pdb
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Form2.resources
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.FormJoin.resources
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.exe
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.pdb
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe.manifest
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.application
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\Microsoft.Win32.Registry.dll
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.AccessControl.dll
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.Principal.Windows.dll
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\Microsoft.Win32.Registry.xml
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.AccessControl.xml
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.Principal.Windows.xml
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.exe.manifest
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.application
+D:\1-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.CopyComplete
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe.config
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe.manifest
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.application
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.exe
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\DorkMaster.pdb
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\Microsoft.Win32.Registry.dll
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.AccessControl.dll
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.Principal.Windows.dll
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\Microsoft.Win32.Registry.xml
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.AccessControl.xml
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\bin\Debug\System.Security.Principal.Windows.xml
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.AssemblyReference.cache
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Form1.resources
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Form2.resources
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.FormJoin.resources
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.Properties.Resources.resources
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.GenerateResource.cache
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.CoreCompileInputs.cache
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.exe.manifest
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.application
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.csproj.Up2Date
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.exe
+D:\2-C#\Project\DorkMasterAdJoin\DorkMaster\obj\Debug\DorkMaster.pdb
