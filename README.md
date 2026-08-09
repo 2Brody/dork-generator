@@ -28,5 +28,4 @@ It is designed to assist with **web scraping**, **penetration testing**, **bug b
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/dorkgen.git
-cd dorkgen
+git clone https://github.com/2Brody/dork-generator.git
