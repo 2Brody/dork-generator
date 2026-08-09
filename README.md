@@ -1,8 +1,8 @@
 # 🔍  dork generator
 Dork Gen DorkMaster
 
-https://github.com/2Brody/dork-generator/blob/main/assets/screenshot.png
 https://github.com/2Brody/dork-generator/blob/main/assets/info.png
+<img width="923" height="660" alt="screenshot" src="https://github.com/user-attachments/assets/81f58e7a-3995-432e-a66c-2f36e3535a6f" />
 
 **DorkGen** is a script for generating keyword combinations used in web page URLs.  
 It is designed to assist with **web scraping**, **penetration testing**, **bug bounty**, and **security research** by quickly creating customized dork lists based on user-defined variables.
