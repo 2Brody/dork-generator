@@ -1,8 +1,8 @@
-# dork generator
+# 🔍  dork generator
 Dork Gen DorkMaster
 
 
-**DorkGen** is a powerful and flexible script for generating keyword combinations used in web page URLs.  
+**DorkGen** is a script for generating keyword combinations used in web page URLs.  
 It is designed to assist with **web scraping**, **penetration testing**, **bug bounty**, and **security research** by quickly creating customized dork lists based on user-defined variables.
 
 ---
